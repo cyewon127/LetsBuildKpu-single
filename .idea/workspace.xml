@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="792148e5-448a-4497-875f-c9bc247e47e3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/views/commons/_kpu_footer.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/commons/_kpu_footer.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/commons/_kpu_header.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/commons/_kpu_header.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -165,7 +164,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1465000" />
+    <option name="totallyTimeSpent" value="2317000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
