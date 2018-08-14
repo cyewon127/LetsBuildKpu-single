@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'sub_first_second/index'
+
   root 'home#index'
   get 'home/index'
 
